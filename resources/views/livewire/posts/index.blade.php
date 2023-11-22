@@ -36,7 +36,7 @@
                             <tr>
                                 <td colspan="4">
                                     <div class="alert alert-danger">
-                                        Data Tost Belum Tersedia
+                                        Data Post Belum Tersedia
                                     </div>
                                 </td>
                             </tr>
